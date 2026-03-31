@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="quantumbonk.png" width="200"/>
+  <img src="quantumbonk.png" width="900"/>
 </p>
 
 # QUANTUM BONK
