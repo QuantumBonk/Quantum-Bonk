@@ -1,8 +1,10 @@
-<img src="quantumbonk.png" width="200"/>
+<p align="center">
+  <img src="quantumbonk.png" width="200"/>
+</p>
 
 # QUANTUM BONK
 
-> A probabilistic token system where outcomes do not exist until execution.
+> A probabilistic system fueled by bonk. Every cycle collapses into buy distribute or burn
 
 ---
 
