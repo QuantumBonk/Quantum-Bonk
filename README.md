@@ -1,4 +1,4 @@
-<img src="quantum_bonk.png" width="200"/>
+<img src="quantumbonk.png" width="200"/>
 
 # QUANTUM BONK
 
